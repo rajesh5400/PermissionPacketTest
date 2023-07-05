@@ -9,7 +9,7 @@ public class SampleSeleniumscript2 {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Rajesh\\Java-Eclipse\\chromedriver.exe Test Rajesh");
 		System.setProperty("webdriver.chrome.driver", "C:\\Rajesh\\Java-Eclipse\\chromedriver.exe Test Rajesh");
-	
+		System.out.println("Compare files");
 	}
 
 }
