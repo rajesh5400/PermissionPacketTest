@@ -8,6 +8,7 @@ public class SampleSeleniumscript2 {
 		// TODO Auto-generated method stub
 
 		System.out.println(" Git to local");
+		System.out.println(" Git to local test");
 		}
 }
  
